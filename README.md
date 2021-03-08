@@ -1,0 +1,12 @@
+## List of talks I've given publicly
+- Feb 2021 Talk: Tidying up Cloud Function Deployments with Cloud Build ([Video](https://www.youtube.com/watch?v=umfoxMOUK1w)) ([Slides](https://docs.google.com/presentation/d/1lTYtTKmJk-WUTnysoVgo3coHkMF8zrST1qZ0dKlHk-w/edit?usp=sharing))
+- Sep 2020 Workshop Intro: Cloud Hero Study Jam - Cloud AI ([Slides](https://docs.google.com/presentation/d/1p4DbsfSQehdk6NVqZ8Y5vi8zQtiTkXFteNdao1Syeis/edit?usp=sharing))
+- Aug 2020 Workshop Intro: Cloud Hero Study Jam - Data Management and Databases ([Slides](https://docs.google.com/presentation/d/1-cMulvZb_tMikSW7hCMwj_g3ja18niykK3yL9-spKFg/edit?usp=sharing))
+- Aug 2020 Workshop Intro: Cloud Hero Study Jam - Data Analytics ([Slides](https://docs.google.com/presentation/d/11aqYxl0YUj9WGgFN9U_BwddlAX-khUqF1tvyuCn5Q6I/edit?usp=sharing))
+- Aug 2020 Workshop Intro: Cloud Hero Study Jam - Infrastructure ([Slides](https://docs.google.com/presentation/d/11A5Jnr_aM8GJLDmQD6KpwaytGcanfb4agdtCuuR3xFg/edit?usp=sharing))
+- Jun 2020 Talk: Serverless Containers with Knative and Cloud Run with GDG Cloud Singapore ([Video](https://youtu.be/2Xx9VhRyWws?t=2574)) ([Slides](https://docs.google.com/presentation/d/1jvzd4PSTa9VGqR4iaLDaRnMCEqNgUcOn_GfhBXofOY8/edit?usp=sharing))
+- May 2020 Talk: Getting Started with Cloud Run ( GDG Cloud Bandung) ([Video](https://youtu.be/bVsF02PlbBU?t=2151)) ([Slides](https://docs.google.com/presentation/d/1AUbJen-wcIJbRu2828gcDItBu4A4O_j3mB3gbtzhGkk/edit?usp=sharing))
+- Apr 2020 Talk: Data Analytics with BigQuery (It's like Excel but bigger) for GDG & WTM Brunei Girls in ICT ([Video](https://youtu.be/KGrag-KKcKw?t=4376)) ([Slides](https://docs.google.com/presentation/d/1mSDk90aEZXyKtsPk9YjyWKXnO8xJq6ElA0chrdmA5qQ/edit?usp=sharing))
+- Mar 2020 Talk: 4 fun ways to use Serverless Functions ([Slides](https://docs.google.com/presentation/d/1-D6zqNqsXaqjDaUC4wQJHLIGry3lvdThHoQgWEB0poQ/edit?usp=sharing))
+- Oct 2019 Talk: Prototyping your Next Big Idea: An Introduction to Google Cloud Platform ([Video](https://www.youtube.com/watch?v=yhWDVzW76-c)) ([Slides](https://docs.google.com/presentation/d/1EbiSyob7V0AHaj3f7gXwC4lMUTXvh0BLVVbd4I1VBUE/edit?usp=sharing))
+- Oct 2019 Workshop: Creating a Smart Home Alarm with Raspberry Pi and Google Cloud Pub/Sub ([Slides](https://docs.google.com/presentation/d/1hE3bXB4urYTDtukLjGqdxWELpNnvyJV7fbIv36SlrK8/edit?usp=sharing))
